@@ -1,3 +1,3 @@
 # Chat-Application
 
-A chat application using nodejs and socket.io 
+A chat application using Node.js and socket.io 
